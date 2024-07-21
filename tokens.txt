@@ -1,0 +1,1 @@
+enter XBL tokens here with a format of "XBL3.0 x=<userhash>;<xststoken>"
