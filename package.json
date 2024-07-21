@@ -1,0 +1,15 @@
+{
+  "name": "xbox-lfg-creator",
+  "version": "1.0.0",
+  "description": "A xbox lfg creator made in C++. Please only use this for educational purposes only.",
+  "main": "authenticater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prismarine-auth": "^2.5.0"
+  }
+}
